@@ -17,6 +17,8 @@ function Register() {
         </div>
       </div>
 
+      <div></div>
+
       <div className="register-footer">
         <img src={Fetch} className="footer-logo" alt="Fetch Me Home Logo" />
         <p className="footer-links">Adoption Platform | Sitemap | Terms of Service | Notice at Collection | Privacy Policy (Updated) | About Our Ads | Your Privacy Choices </p>
